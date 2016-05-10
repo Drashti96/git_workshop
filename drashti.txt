@@ -1,0 +1,16 @@
+git init
+	Initialises new repository
+
+git add 
+
+
+git commit
+
+git log 
+
+git log --oneline
+
+git diff
+
+git clone
+	copy a file
